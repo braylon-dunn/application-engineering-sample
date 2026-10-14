@@ -1,0 +1,5 @@
+{
+  "voltage_v": 480,
+  "main_bus_a": 2000,
+  "feeders_a": [800, 600, 400]
+}
